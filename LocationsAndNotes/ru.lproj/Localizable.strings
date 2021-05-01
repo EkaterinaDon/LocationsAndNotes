@@ -1,0 +1,50 @@
+/* 
+ Localizable.strings
+  LocationsAndNotes
+
+  Created by Ekaterina on 29.04.21.
+  
+*/
+
+//MARK: - TabBarController
+
+"Folders" = "Папки";
+"Notes" = "Заметки";
+"Map" = "Карта";
+
+//MARK: - FoldersController
+
+"Add" = "Добавить";
+"Create new folder" = "Создать новую папку";
+"Folder name" = "Название папки";
+"Create" = "Создать";
+"Cancel" = "Отмена";
+" notes inside" = " заметок в папке";
+
+//MARK: - FolderController
+
+"All notes" = "Все заметки";
+"New Name" = "Новое название";
+
+//MARK: - NoteController
+
+"Folder" = "Папка";
+"Done" = "Готово";
+"Make a photo" = "Сделать фотографию";
+"Select from library" = "Выбрать из фотоальбома";
+"Delete" = "Удалить";
+"Share" = "Поделиться";
+
+//MARK: - NoteView
+
+"Note name" = "Название заметки";
+"Location" = "Местоположение";
+"Select folder" = "Выбрать папку";
+
+//MARK: - SelectFolderViewController
+
+//MARK: - NoteMapViewController
+
+"Map" = "Карта";
+
+

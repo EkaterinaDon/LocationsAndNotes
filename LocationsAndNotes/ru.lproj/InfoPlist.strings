@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  LocationsAndNotes
+
+  Created by Ekaterina on 29.04.21.
+  
+*/
+
+CFBundleName = "Заметки";
+NSCameraUsageDescription = "Разрешить использовать камеру?";
+NSPhotoLibraryUsageDescription = "Разрешить использовать фотоальбом?";
+NSLocationWhenInUseUsageDescription = "Определять местоположение при использовании приложения";
+NSLocationAlwaysUsageDescription = "Определять местоположение всегда";
